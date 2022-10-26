@@ -4,7 +4,7 @@ import type { UserConfig } from 'vite';
 const config: UserConfig = {
 	plugins: [sveltekit()],
 	server: {
-		port: 5174,
+		port: 8081,
 		host: '127.0.0.1'
 	}
 };
