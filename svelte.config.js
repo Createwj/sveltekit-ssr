@@ -11,5 +11,6 @@ const config = {
 		adapter: adapter()
 	}
 };
+console.log(2)
 
 export default config;
